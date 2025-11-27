@@ -126,4 +126,4 @@ Race and occupation insights support community health initiatives.
 
 Automated reporting reduced manual analysis time and improved decision-making accuracy.
 9. ScreenShot
-https://github.com/Mayuri-ai/HealthCare-Analytics/blob/main/HealthCareAnalytics_Screenshot.png
+https://github.com/Mayuri-ai/HealthCare-Analytics/blob/main/HealthCareAnalytics_Dashboard.png
